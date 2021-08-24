@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I’m Subu
-- 👀 I’m interested in various stuffs, basicaaly whichever technology ignites the passion inside me
+- 👀 I’m interested in various stuffs, basically whichever technology ignites the passion inside me
 - 🌱 I’m currently learning 🐍, machine learning, computer vision, artificial intelligence<br>
 (so many things, so much fun 😂)
 - 💞️ I’m looking to collaborate on GitHub, or any other suitable platform
